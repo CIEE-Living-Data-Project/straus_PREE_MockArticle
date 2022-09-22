@@ -5,4 +5,4 @@ The data were collected by Natural Resources Canada at the Great Lakes Forestry 
 
 manuscript folder contains Rmarkdown scripts, pdf file, and associated files (including .bib and .csl files) for the mock manuscript.
 
-This project is being reviwed by Siobhan Schenk for Biol 548T
+This project is being reviwed by Siobhan Schenk for Biol 548T. Creating new branch and pull request.
